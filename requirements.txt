@@ -1,0 +1,5 @@
+streamlit
+transformers>=4.30.0
+torch           # or 'tensorflow' if you prefer TF; here we use PyTorch
+sentencepiece   # sometimes needed for some models
+typing_extensions
