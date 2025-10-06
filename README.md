@@ -17,7 +17,11 @@ The goal of this project is to demonstrate an AI system that:
 This project was developed as part of a **Remote ML Internship Task Assessment**.
 
 ---
+## 🚀 Live Demo
 
+Try the app online here: [AI Sentiment-Based Text Generator](https://ai-sentiment-text-generator-3u4rbaggwbembzy9aug7oo.streamlit.app/)
+
+---
 ## 🛠️ Features
 
 - **Sentiment Analysis:** Automatically detect the sentiment of your input text.
