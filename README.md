@@ -57,6 +57,7 @@ cd AI-Sentiment-Text-Generator
 Run the Streamlit app:
 
 streamlit run app.py
+```
 
 
 Open the provided local URL in your browser to interact with the app.
