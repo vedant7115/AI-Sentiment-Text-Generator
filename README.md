@@ -81,3 +81,34 @@ pip install -r requirements.txt
 - Ensuring text generation aligns with the detected sentiment.
 - Managing output length without cutting off sentences awkwardly.
 - Designing a clean, interactive, and
+---
+
+## 💾 Future Improvements
+
+- Add download option for generated text.
+- Include multiple language support.
+- Add custom GPT-2 fine-tuning for more context-aware outputs.
+- Deploy on Streamlit Cloud or Heroku for public access.
+
+---
+
+## 📌 Notes
+
+- This project was completed under a **Remote ML Internship Task Assessment** with the objective of building an AI-based text generator aligned with sentiment.
+- All models used are **pre-trained Hugging Face Transformers**.
+- No personal or sensitive data is required to run this application.
+
+---
+
+## 📌 References
+
+- [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/index)
+- [Streamlit Documentation](https://docs.streamlit.io/)
+- GPT-2 model: [OpenAI GPT-2](https://huggingface.co/gpt2)
+
+---
+
+## 👨‍💻 Author
+
+**Vedant Saubhri – Machine Learning Enthusiast & Developer**  
+Email: singhvedant7115@gmail.com
