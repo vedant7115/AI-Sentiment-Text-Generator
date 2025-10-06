@@ -82,7 +82,6 @@ Built with Streamlit.
 Lavender-white theme with modern input/output cards.
 
 Sidebar allows sentiment selection and output length adjustments.
-
 ⚡ Usage
 
 Enter a prompt in the input box.
@@ -129,5 +128,5 @@ GPT-2 model: OpenAI GPT-2
 
 👨‍💻 Author
 
-Vedant Singh – Machine Learning Enthusiast & Developer
-Email: vedant@example.com
+Vedant Saubhri – Machine Learning Enthusiast & Developer
+Email: singhvedant7115@gmail.com
