@@ -61,7 +61,7 @@ streamlit run app.py
 
 Open the provided local URL in your browser to interact with the app.
 
-🧠 Technical Approach
+##🧠 Technical Approach
 
 Sentiment Analysis:
 
@@ -82,7 +82,7 @@ Built with Streamlit.
 Lavender-white theme with modern input/output cards.
 
 Sidebar allows sentiment selection and output length adjustments.
-⚡ Usage
+##⚡ Usage
 
 Enter a prompt in the input box.
 
@@ -92,7 +92,7 @@ Choose output length (Short, Medium, Long).
 
 Click Generate Text to see AI-generated output in a styled card.
 
-📈 Project Challenges
+##📈 Project Challenges
 
 Ensuring text generation aligns with the detected sentiment.
 
@@ -100,7 +100,7 @@ Managing output length without cutting off sentences awkwardly.
 
 Designing a clean, interactive, and modern UI for users.
 
-💾 Future Improvements
+##💾 Future Improvements
 
 Add download option for generated text.
 
@@ -110,7 +110,7 @@ Add custom GPT-2 fine-tuning for more context-aware outputs.
 
 Deploy on Streamlit Cloud or Heroku for public access.
 
-📌 Notes
+##📌 Notes
 
 This project was completed under a Remote ML Internship Task Assessment with the objective of building an AI-based text generator aligned with sentiment.
 
@@ -118,7 +118,7 @@ All models used are pre-trained Hugging Face Transformers.
 
 No personal or sensitive data is required to run this application.
 
-📌 References
+##📌 References
 
 Hugging Face Transformers Documentation
 
@@ -126,7 +126,7 @@ Streamlit Documentation
 
 GPT-2 model: OpenAI GPT-2
 
-👨‍💻 Author
+##👨‍💻 Author
 
 Vedant Saubhri – Machine Learning Enthusiast & Developer
 Email: singhvedant7115@gmail.com
