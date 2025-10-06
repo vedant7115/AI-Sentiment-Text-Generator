@@ -60,6 +60,7 @@ streamlit run app.py
 
 
 Open the provided local URL in your browser to interact with the app.
+---
 
 ##🧠 Technical Approach
 
@@ -82,6 +83,7 @@ Built with Streamlit.
 Lavender-white theme with modern input/output cards.
 
 Sidebar allows sentiment selection and output length adjustments.
+---
 ##⚡ Usage
 
 Enter a prompt in the input box.
@@ -91,8 +93,10 @@ Select Auto Detect or choose a sentiment manually.
 Choose output length (Short, Medium, Long).
 
 Click Generate Text to see AI-generated output in a styled card.
+---
 
 ##📈 Project Challenges
+
 
 Ensuring text generation aligns with the detected sentiment.
 
